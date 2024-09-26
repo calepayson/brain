@@ -11,11 +11,28 @@
             "id": "24aa11a5b8241c2f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024-09-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b247780b060d6ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "198bcee6c45c0fff",
@@ -81,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Git.md"
+              }
             }
           }
         ]
@@ -138,8 +160,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7de4e9a2d1c43d4d",
+  "active": "8b247780b060d6ec",
   "lastOpenFiles": [
+    "HTML.md",
+    "CSS.md",
+    "2024-09-24.md",
+    "Git.md",
+    "Pro Git.md",
+    "The Odin Project.md",
+    "Why Learning to Code is So Damn Hard.md",
     "Welcome.md"
   ]
 }
