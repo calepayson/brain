@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "HTML.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
+                "file": "HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.md",
+                "file": "HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git.md"
+                "file": "HTML.md"
               }
             }
           }
@@ -162,10 +162,11 @@
   },
   "active": "8b247780b060d6ec",
   "lastOpenFiles": [
-    "HTML.md",
     "CSS.md",
-    "2024-09-24.md",
     "Git.md",
+    "Untitled.md",
+    "HTML.md",
+    "2024-09-24.md",
     "Pro Git.md",
     "The Odin Project.md",
     "Why Learning to Code is So Damn Hard.md",

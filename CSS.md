@@ -220,3 +220,13 @@ a:active {
 - Use `order` to customize the order of individual elements
 - Use `align-self` to vertically align individual items
 - Use `flex` to create flexible boxes that can stretch and shrink
+## Starter Properties
+- `color` - Sets an elements text color
+- `background-color` - Sets the background color of an element
+- `font-family` - Sets the font family
+	- Can be a comma separated list of families to use in decreasing order
+- `font-size` - Sets the font size. Uses `em` or `px`
+- `font-weight` - Affects the boldness of the text
+- `text-align` - Aligns text horizontally within an element
+- Image `height` and `width` - Set the height and width of an image
+	- By default, setting one to a size and the other to auto will retain the images proportions
